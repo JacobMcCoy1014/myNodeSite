@@ -1,0 +1,8 @@
+{
+  "packages": [ 
+      
+     { "title":"Basic Package", "price": 200,"description": "Your vehicle will come back spotless and better than imagined. With a use of various tools and products your car will shine more than the day you bought it! Interior and exterior will be thoroughly cleaned from all dirt and fingerprint marks. Tires and rims will be sprayed and hand scrubbed to get every hidden crevase. Glass will be cleaned on both the interior and exterior of the windows. Seats, either leather or cloth will be cleaned. The job will then be finished off with an odor neutralizer on carpets, fabrics, and vents." }, 
+
+     { "title":"Premium Package", "price": 350,"description": "Our premium package is for those who really want a impressive change to their vehicle. The car will undergo all the cleaning processes decribed in the basic package with a couple extra that go a long way. A clay bar will be taken to the exterior of the vehicle to provide a even cleaner look removing dirt and grim that may not be easy to see. Rims will not only be sprayed and hand washed but will also be polished and decontaminated. If applicable, leather seat protectant coating will be applied." } 
+  ]   
+}
